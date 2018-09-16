@@ -12,7 +12,7 @@ npm run serve
 
 ### Run
 
-after npm run serve you can see the page on http://http://localhost:8080
+after npm run serve you can see the page on http://localhost:8080
 
 ### Compiles and minifies for production
 ```
